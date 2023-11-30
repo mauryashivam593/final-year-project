@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/joshbalfour/final-year-project#readme",
   "dependencies": {
-    "fs-extra": "^0.26.7",
+    "fs-extra": "^1.0.0",
     "handlebars": "^4.0.5",
     "metalsmith": "^2.1.0",
     "metalsmith-google-analytics": "0.0.1",
