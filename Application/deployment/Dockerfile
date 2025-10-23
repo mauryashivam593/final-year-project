@@ -1,4 +1,4 @@
-FROM buildpack-deps
+FROM buildpack-deps:bookworm
 
 RUN mkdir /data
 
